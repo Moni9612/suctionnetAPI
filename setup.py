@@ -12,13 +12,6 @@ setup(
     url='https://graspnet.net',
     packages=find_packages(),
     install_requires=[
-        'numpy',
-        'scipy',
-        'transforms3d==0.3.1',
-        'open3d>=0.8.0.0',
-        'tqdm',
-        'opencv-python',
-        'trimesh',
         'suction_nms',
         'point_cloud_utils'
     ]
