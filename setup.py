@@ -12,7 +12,6 @@ setup(
     url='https://graspnet.net',
     packages=find_packages(),
     install_requires=[
-        'point_cloud_utils',
         'suction_nms'
     ]
 )
